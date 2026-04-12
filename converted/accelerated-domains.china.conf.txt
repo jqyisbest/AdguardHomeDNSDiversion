@@ -32309,6 +32309,7 @@
 [/dubairen.com/]127.0.0.1:5301
 [/dubao123.com/]127.0.0.1:5301
 [/dubbing.tech/]127.0.0.1:5301
+[/dubbingx.com/]127.0.0.1:5301
 [/dubbo.io/]127.0.0.1:5301
 [/duble.live/]127.0.0.1:5301
 [/dubola.com/]127.0.0.1:5301
@@ -68903,6 +68904,7 @@
 [/miaocode.com/]127.0.0.1:5301
 [/miaodiyun.com/]127.0.0.1:5301
 [/miaodongbar.com/]127.0.0.1:5301
+[/miaodongshenghuo.com/]127.0.0.1:5301
 [/miaogongzi.cc/]127.0.0.1:5301
 [/miaogongzi.net/]127.0.0.1:5301
 [/miaohuiyanyi.com/]127.0.0.1:5301
@@ -79934,6 +79936,7 @@
 [/quaspa.com/]127.0.0.1:5301
 [/quazero.com/]127.0.0.1:5301
 [/quba360.com/]127.0.0.1:5301
+[/qubang.cc/]127.0.0.1:5301
 [/qubaobei.com/]127.0.0.1:5301
 [/qubiankeji.com/]127.0.0.1:5301
 [/qucai.com/]127.0.0.1:5301
@@ -95338,6 +95341,7 @@
 [/tsg-online.net/]127.0.0.1:5301
 [/tsggx.com/]127.0.0.1:5301
 [/tsgks.com/]127.0.0.1:5301
+[/tsgyun.com/]127.0.0.1:5301
 [/tshaisen.com/]127.0.0.1:5301
 [/tshe.com/]127.0.0.1:5301
 [/tshe.me/]127.0.0.1:5301
@@ -110427,6 +110431,7 @@
 [/yooek.com/]127.0.0.1:5301
 [/yoofh.com/]127.0.0.1:5301
 [/yoogene.com/]127.0.0.1:5301
+[/yoohe.net/]127.0.0.1:5301
 [/yoohouse.com/]127.0.0.1:5301
 [/yoojia.com/]127.0.0.1:5301
 [/yoojing.com/]127.0.0.1:5301
