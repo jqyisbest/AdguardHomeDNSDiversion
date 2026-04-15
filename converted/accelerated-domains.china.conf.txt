@@ -11762,6 +11762,7 @@
 [/ailvxing.com/]127.0.0.1:5301
 [/aim-ec.com/]127.0.0.1:5301
 [/aimaker.space/]127.0.0.1:5301
+[/aimap.com/]127.0.0.1:5301
 [/aimatech.com/]127.0.0.1:5301
 [/aimatrix.ai/]127.0.0.1:5301
 [/aimcx.com/]127.0.0.1:5301
@@ -17422,6 +17423,7 @@
 [/bjfqy.com/]127.0.0.1:5301
 [/bjfriendshiphotel.com/]127.0.0.1:5301
 [/bjfsali.com/]127.0.0.1:5301
+[/bjftfy.com/]127.0.0.1:5301
 [/bjfzst.com/]127.0.0.1:5301
 [/bjgas.com/]127.0.0.1:5301
 [/bjgasgh.com/]127.0.0.1:5301
@@ -21321,6 +21323,7 @@
 [/cetgps.com/]127.0.0.1:5301
 [/cethik.com/]127.0.0.1:5301
 [/cetkmh.com/]127.0.0.1:5301
+[/cetsteam.com/]127.0.0.1:5301
 [/cetzig.com/]127.0.0.1:5301
 [/ceultimate.com/]127.0.0.1:5301
 [/ceve-market.org/]127.0.0.1:5301
@@ -34994,6 +34997,7 @@
 [/evpartner.com/]127.0.0.1:5301
 [/evpowergroup.com/]127.0.0.1:5301
 [/evtcn.com/]127.0.0.1:5301
+[/evtrust.com/]127.0.0.1:5301
 [/evyy.net/]127.0.0.1:5301
 [/evzhidao.com/]127.0.0.1:5301
 [/evznl.org/]127.0.0.1:5301
@@ -36946,6 +36950,7 @@
 [/fk100.com/]127.0.0.1:5301
 [/fkask.net/]127.0.0.1:5301
 [/fkblog.org/]127.0.0.1:5301
+[/fkbuff.com/]127.0.0.1:5301
 [/fkcaijing.com/]127.0.0.1:5301
 [/fkdex.com/]127.0.0.1:5301
 [/fkdmg.com/]127.0.0.1:5301
@@ -48033,6 +48038,7 @@
 [/hivictor.net/]127.0.0.1:5301
 [/hiwafer.com/]127.0.0.1:5301
 [/hiwaysemi.com/]127.0.0.1:5301
+[/hiwayslaw.com/]127.0.0.1:5301
 [/hiwbb.com/]127.0.0.1:5301
 [/hiwechats.com/]127.0.0.1:5301
 [/hiweixiu.com/]127.0.0.1:5301
@@ -59754,6 +59760,7 @@
 [/jxxdxy.com/]127.0.0.1:5301
 [/jxxhdn.com/]127.0.0.1:5301
 [/jxxhsd.com/]127.0.0.1:5301
+[/jxxinzhe.com/]127.0.0.1:5301
 [/jxxnyqc.com/]127.0.0.1:5301
 [/jxxs.net/]127.0.0.1:5301
 [/jxycqy.com/]127.0.0.1:5301
@@ -92846,6 +92853,7 @@
 [/tencentcloudclub.com/]127.0.0.1:5301
 [/tencentcloudcore.com/]127.0.0.1:5301
 [/tencentcloudcr.com/]127.0.0.1:5301
+[/tencentcloudcs.com/]127.0.0.1:5301
 [/tencentcloudga.com/]127.0.0.1:5301
 [/tencentcloudga001.com/]127.0.0.1:5301
 [/tencentcloudga001.net/]127.0.0.1:5301
