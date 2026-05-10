@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]127.0.0.1:5301
 [/cl1.apple.com/]127.0.0.1:5301
 [/cl2-cn.apple.com/]127.0.0.1:5301
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:5301
 [/cl2.apple.com/]127.0.0.1:5301
 [/cl3-cdn.origin-apple.com.akadns.net/]127.0.0.1:5301
 [/cl3.apple.com/]127.0.0.1:5301
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]127.0.0.1:5301
 [/gs-loc.apple.com/]127.0.0.1:5301
 [/gsp10-ssl-cn.ls.apple.com/]127.0.0.1:5301
+[/gsp11-cn.ls.apple.com/]127.0.0.1:5301
 [/gsp12-cn.ls.apple.com/]127.0.0.1:5301
 [/gsp13-cn.ls.apple.com/]127.0.0.1:5301
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:5301
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]127.0.0.1:5301
 [/guzzoni.smoot.apple.com/]127.0.0.1:5301
 [/iadsdk.apple.com/]127.0.0.1:5301
-[/icloud-cdn.icloud.com.akadns.net/]127.0.0.1:5301
-[/icloud.cdn-apple.com/]127.0.0.1:5301
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:5301
 [/init-kt.apple.com/]127.0.0.1:5301
 [/init-p01md-lb.push-apple.com.akadns.net/]127.0.0.1:5301
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]127.0.0.1:5301
 [/ml.cdn-apple.com/]127.0.0.1:5301
 [/music.apple.com/]127.0.0.1:5301
-[/ocsp-lb.apple.com.akadns.net/]127.0.0.1:5301
 [/ocsp.apple.com/]127.0.0.1:5301
-[/ocsp2-lb.apple.com.akadns.net/]127.0.0.1:5301
 [/ocsp2.apple.com/]127.0.0.1:5301
 [/oscdn.apple.com/]127.0.0.1:5301
 [/oscdn.origin-apple.com.akadns.net/]127.0.0.1:5301
 [/osxapps.itunes.g.aaplimg.com/]127.0.0.1:5301
 [/pancake.apple.com/]127.0.0.1:5301
-[/pancake.cdn-apple.com.akadns.net/]127.0.0.1:5301
 [/pba0.apple.com/]127.0.0.1:5301
 [/probe.siri.apple.com/]127.0.0.1:5301
 [/prod-support.apple-support.akadns.net/]127.0.0.1:5301
 [/publicassets.cdn-apple.com/]127.0.0.1:5301
-[/reserve-prime.apple.com/]127.0.0.1:5301
 [/s.mzstatic.com/]127.0.0.1:5301
 [/seed-sequoia.siri.apple.com/]127.0.0.1:5301
 [/seed-swallow.siri.apple.com/]127.0.0.1:5301
