@@ -11001,6 +11001,7 @@
 [/aichaoxing.com/]127.0.0.1:5301
 [/aichat.net/]127.0.0.1:5301
 [/aichat1234.com/]127.0.0.1:5301
+[/aichaxun.com/]127.0.0.1:5301
 [/aichehome.com/]127.0.0.1:5301
 [/aichi-zhe.com/]127.0.0.1:5301
 [/aichinaw.com/]127.0.0.1:5301
@@ -15124,6 +15125,7 @@
 [/bdbae.com/]127.0.0.1:5301
 [/bdc-rays.com/]127.0.0.1:5301
 [/bdcb.cc/]127.0.0.1:5301
+[/bdcgslb.com/]127.0.0.1:5301
 [/bdcgz.com/]127.0.0.1:5301
 [/bdchangtujs.com/]127.0.0.1:5301
 [/bdchina.com/]127.0.0.1:5301
@@ -20857,6 +20859,7 @@
 [/chartboost-china.com/]127.0.0.1:5301
 [/chase-secure55.wiki/]127.0.0.1:5301
 [/chasedorisu.com/]127.0.0.1:5301
+[/chasedream.com/]127.0.0.1:5301
 [/chaseyanyu.net/]127.0.0.1:5301
 [/chashebao.com/]127.0.0.1:5301
 [/chashudi.com/]127.0.0.1:5301
@@ -26325,6 +26328,7 @@
 [/csgjhzzx.com/]127.0.0.1:5301
 [/csgjjt.com/]127.0.0.1:5301
 [/csgkjt.com/]127.0.0.1:5301
+[/csgky.net/]127.0.0.1:5301
 [/csgocn.net/]127.0.0.1:5301
 [/csgongshui.com/]127.0.0.1:5301
 [/csgpc.org/]127.0.0.1:5301
@@ -50976,6 +50980,7 @@
 [/ikunac.com/]127.0.0.1:5301
 [/ikuncdnfb.com/]127.0.0.1:5301
 [/ikunpay.com/]127.0.0.1:5301
+[/ikutu.com/]127.0.0.1:5301
 [/ikx.me/]127.0.0.1:5301
 [/ikzybf.com/]127.0.0.1:5301
 [/il8r.com/]127.0.0.1:5301
@@ -51024,6 +51029,7 @@
 [/ilmgq.com/]127.0.0.1:5301
 [/ilohas.com/]127.0.0.1:5301
 [/iloli.bid/]127.0.0.1:5301
+[/iloli.love/]127.0.0.1:5301
 [/iloli.xin/]127.0.0.1:5301
 [/ilongre.com/]127.0.0.1:5301
 [/ilovechao.com/]127.0.0.1:5301
@@ -51274,6 +51280,7 @@
 [/imsun.net/]127.0.0.1:5301
 [/imsyy.com/]127.0.0.1:5301
 [/imtaweb.net/]127.0.0.1:5301
+[/imtedge.com/]127.0.0.1:5301
 [/imtics.com/]127.0.0.1:5301
 [/imtmp.net/]127.0.0.1:5301
 [/imtrwqjier3.com/]127.0.0.1:5301
@@ -53981,6 +53988,7 @@
 [/jiemo.net/]127.0.0.1:5301
 [/jiemodui.com/]127.0.0.1:5301
 [/jiemoselect.com/]127.0.0.1:5301
+[/jiemu5.com/]127.0.0.1:5301
 [/jienyl.com/]127.0.0.1:5301
 [/jiepai.net/]127.0.0.1:5301
 [/jiepaids.com/]127.0.0.1:5301
@@ -58179,6 +58187,7 @@
 [/kfcbest.com/]127.0.0.1:5301
 [/kfcdn.com/]127.0.0.1:5301
 [/kfcjrl.com/]127.0.0.1:5301
+[/kfcrm.com/]127.0.0.1:5301
 [/kfd3sm2c.com/]127.0.0.1:5301
 [/kfdcc.com/]127.0.0.1:5301
 [/kffone.com/]127.0.0.1:5301
@@ -59330,6 +59339,7 @@
 [/kunduo.com/]127.0.0.1:5301
 [/kungfucloud.com/]127.0.0.1:5301
 [/kungfuenglish.com/]127.0.0.1:5301
+[/kungfumars.com/]127.0.0.1:5301
 [/kunguankeji.com/]127.0.0.1:5301
 [/kunguanyx.net/]127.0.0.1:5301
 [/kunjuke.com/]127.0.0.1:5301
@@ -63983,6 +63993,7 @@
 [/m2mlib.com/]127.0.0.1:5301
 [/m2mzy.com/]127.0.0.1:5301
 [/m2time.net/]127.0.0.1:5301
+[/m2ucam.com/]127.0.0.1:5301
 [/m3-cloud.com/]127.0.0.1:5301
 [/m3cqjc3og6.com/]127.0.0.1:5301
 [/m3guo.com/]127.0.0.1:5301
@@ -64950,6 +64961,7 @@
 [/mdnice.com/]127.0.0.1:5301
 [/mdouvip.com/]127.0.0.1:5301
 [/mdouwz.com/]127.0.0.1:5301
+[/mdown.asia/]127.0.0.1:5301
 [/mdpda.com/]127.0.0.1:5301
 [/mdpetrotech.com/]127.0.0.1:5301
 [/mdrmyy.com/]127.0.0.1:5301
@@ -69216,6 +69228,7 @@
 [/niuk12020gi.com/]127.0.0.1:5301
 [/niukk.com/]127.0.0.1:5301
 [/niuming147.com/]127.0.0.1:5301
+[/niumowang.com/]127.0.0.1:5301
 [/niunai.com/]127.0.0.1:5301
 [/niuniufund.com/]127.0.0.1:5301
 [/niupiano.com/]127.0.0.1:5301
@@ -71521,6 +71534,7 @@
 [/orayimg.com/]127.0.0.1:5301
 [/orbiepharm.com/]127.0.0.1:5301
 [/orbitmes.com/]127.0.0.1:5301
+[/orbrand.com/]127.0.0.1:5301
 [/orcadt.com/]127.0.0.1:5301
 [/orchome.com/]127.0.0.1:5301
 [/orcode.com/]127.0.0.1:5301
@@ -74590,6 +74604,7 @@
 [/qgxl.org/]127.0.0.1:5301
 [/qgyqshz.com/]127.0.0.1:5301
 [/qgysj.org/]127.0.0.1:5301
+[/qgyyl.com/]127.0.0.1:5301
 [/qgyyzs.net/]127.0.0.1:5301
 [/qgzb.net/]127.0.0.1:5301
 [/qgzxx.com/]127.0.0.1:5301
@@ -89959,6 +89974,7 @@
 [/toast.pub/]127.0.0.1:5301
 [/toaw.net/]127.0.0.1:5301
 [/tobaccochina.com/]127.0.0.1:5301
+[/tobaccodb.org/]127.0.0.1:5301
 [/tobaccosz.com/]127.0.0.1:5301
 [/tobebetterjavaer.com/]127.0.0.1:5301
 [/toberp.com/]127.0.0.1:5301
@@ -90964,6 +90980,7 @@
 [/ttnea.com/]127.0.0.1:5301
 [/ttnongli.com/]127.0.0.1:5301
 [/ttnqh.com/]127.0.0.1:5301
+[/ttoffice.net/]127.0.0.1:5301
 [/ttongda.com/]127.0.0.1:5301
 [/ttpaicdn.com/]127.0.0.1:5301
 [/ttpaihang.com/]127.0.0.1:5301
@@ -95151,6 +95168,7 @@
 [/weishigz.com/]127.0.0.1:5301
 [/weishipin.com/]127.0.0.1:5301
 [/weishishuyuan.com/]127.0.0.1:5301
+[/weishucdn.cloud/]127.0.0.1:5301
 [/weisiliang.com/]127.0.0.1:5301
 [/weismarts.com/]127.0.0.1:5301
 [/weistang.com/]127.0.0.1:5301
@@ -99805,6 +99823,7 @@
 [/xindong.com/]127.0.0.1:5301
 [/xindongdinglv.com/]127.0.0.1:5301
 [/xindonghuyu123.com/]127.0.0.1:5301
+[/xindonshan.com/]127.0.0.1:5301
 [/xindu.cc/]127.0.0.1:5301
 [/xinduo.com/]127.0.0.1:5301
 [/xinduoad.com/]127.0.0.1:5301
@@ -100152,6 +100171,7 @@
 [/xinruiweb.com/]127.0.0.1:5301
 [/xinsanbanbao.com/]127.0.0.1:5301
 [/xinsankeji.com/]127.0.0.1:5301
+[/xinsannong.com/]127.0.0.1:5301
 [/xinsdn.com/]127.0.0.1:5301
 [/xinsenz.com/]127.0.0.1:5301
 [/xinsf.cc/]127.0.0.1:5301
@@ -101982,6 +102002,7 @@
 [/xxkucun.com/]127.0.0.1:5301
 [/xxkxjx.net/]127.0.0.1:5301
 [/xxkxw.net/]127.0.0.1:5301
+[/xxlab.tech/]127.0.0.1:5301
 [/xxlcn.com/]127.0.0.1:5301
 [/xxlifexx.com/]127.0.0.1:5301
 [/xxliudsp.com/]127.0.0.1:5301
