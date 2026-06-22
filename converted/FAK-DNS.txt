@@ -14177,6 +14177,7 @@
 [/b-k-automation.com/]127.0.0.1:5301
 [/b-raymedia.com/]127.0.0.1:5301
 [/b.biz/]127.0.0.1:5301
+[/b.c2r.ts.cdn.office.net/]127.0.0.1:5301
 [/b01.net/]127.0.0.1:5301
 [/b02f0d7f3745ba7c.com/]127.0.0.1:5301
 [/b041e427810281.beer/]127.0.0.1:5301
@@ -33934,6 +33935,7 @@
 [/f-insight.com/]127.0.0.1:5301
 [/f-stack.org/]127.0.0.1:5301
 [/f.biz/]127.0.0.1:5301
+[/f.c2r.ts.cdn.office.net/]127.0.0.1:5301
 [/f.cx/]127.0.0.1:5301
 [/f008.com/]127.0.0.1:5301
 [/f015dfc4510292.beer/]127.0.0.1:5301
@@ -81375,6 +81377,7 @@
 [/sheketiandi.com/]127.0.0.1:5301
 [/shekou.com/]127.0.0.1:5301
 [/shelive.net/]127.0.0.1:5301
+[/shell.cdn.office.net/]127.0.0.1:5301
 [/shellpub.com/]127.0.0.1:5301
 [/shellsec.com/]127.0.0.1:5301
 [/shelter-china.com/]127.0.0.1:5301
@@ -85195,6 +85198,7 @@
 [/staticfile.org/]127.0.0.1:5301
 [/statickksmg.com/]127.0.0.1:5301
 [/statics.cc/]127.0.0.1:5301
+[/statics.teams.cdn.office.net/]127.0.0.1:5301
 [/staticsdd.com/]127.0.0.1:5301
 [/staticsoe.com/]127.0.0.1:5301
 [/staticsoem.com/]127.0.0.1:5301
@@ -85908,6 +85912,7 @@
 [/surely.cool/]127.0.0.1:5301
 [/surerp.com/]127.0.0.1:5301
 [/surface.download.prss.microsoft.com/]127.0.0.1:5301
+[/surface.downloads.prss.microsoft.com/]127.0.0.1:5301
 [/surfacetreatmentgroup.com/]127.0.0.1:5301
 [/surfacetreatmenttechnology.com/]127.0.0.1:5301
 [/surfcg.com/]127.0.0.1:5301
