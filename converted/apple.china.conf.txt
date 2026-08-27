@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]127.0.0.1:5301
 [/gsp5-cn.ls.apple.com/]127.0.0.1:5301
 [/gsp85-cn-ssl.ls.apple.com/]127.0.0.1:5301
+[/gspe11-2-cn-ssl.ls.apple.com/]127.0.0.1:5301
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]127.0.0.1:5301
 [/gspe19-2-cn-ssl.ls.apple.com/]127.0.0.1:5301
 [/gspe19-cn-ssl.ls.apple.com/]127.0.0.1:5301
